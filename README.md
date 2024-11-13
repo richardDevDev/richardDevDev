@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @richardDevDev
 - 👀 I’m interested in the world of development
-- 🌱 I’m currently learning React JS
+- 🌱 I’m have develop with Angular, Vue, Spring Boot, Laravel
+- B) I'm a full stack developer
 - 📫 you can contact me at richiemandujano@outlook.es
 
 <!---
